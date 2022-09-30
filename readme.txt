@@ -1,2 +1,2 @@
 Hello world!
-Coding is fun
+Coding is fun most of the time
